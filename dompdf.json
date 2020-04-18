@@ -1,0 +1,15 @@
+{
+    "name": "belajar/belajarcomposer",
+    "description": "Untuk Kebutuhan Belajar Composer",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Shakila Indah",
+            "email": "shakilaindah27@gmail.com"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^0.8.5"
+    }
+}
